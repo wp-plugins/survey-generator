@@ -21,9 +21,11 @@ To summarize a survey, use the shortcode `[survey_summarize "survey-sample"]`. A
 
 1. Create the directory `survey_generator` in your plugin directory.
 2. Put these files in it.
-   * survey_generator.php
-   * script.js
-   * style.css
+   * survey-main.php
+   * Survey.php
+   * View.php
+   * survey.js
+   * survey.css
 3. Optionally, put these files in your upload directory.
    * survey-sample
    * survey-sample.csv
