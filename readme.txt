@@ -13,11 +13,11 @@ The Survey Generator plugin Survey Generator gives you an easy way to generate, 
 
 Would you like to be able to put surveys anywhere on your web pages? This survey generator gives you an easy way to do that. And why would you want surveys on your web pages? Here are some reasons:
 
-* Let your visitors rate your services, your business, your employees.</li>
-* See if your readers find your articles helpful.</li>
-* Get reactions to your web changes before implementing them.</li>
-* Quiz your visitors on their preferences</li>
-* Conduct anonymous surveys on any topic you want!</li>
+* Let your visitors rate your services, your business, your employees.
+* See if your readers find your articles helpful.
+* Get reactions to your web changes before implementing them.
+* Quiz your visitors on their preferences.
+* Conduct anonymous surveys on any topic you want!
 
 To use Survey Generator, you must first write up the questions and answers you want in your survey. This is your survey definition file, and how to format it is explained in the documentation.htm file. Then put the Survey Generator code where you want the survey form to appear on your web page. When someone visits that web page on your web site, Survey Generator shows the form for your survey. If your web visitor submits the form, Survey Generator saves the responses in CSV format, which Excel and other applications can open natively. Survey Generator can also summarize the responses to a survey and return the results as HTML tables.</p>
 
@@ -54,3 +54,7 @@ Yes, of course, to rhallsey at yahoo dot com. I'll reply and add it to the FAQ.
 
 = 1.0 =
 * Here it is.
+
+= 1.0a =
+* Improvements (I hope) to the documentation.
+* No code changes.
